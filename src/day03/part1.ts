@@ -1,7 +1,5 @@
 // Advent of Code - Day 3 - Part One
 
-import { Grid } from "@lib/grid";
-
 export function part1(input: string): number {
     const items = input
         .replaceAll('\r', '')

@@ -1,7 +1,7 @@
-# Advent of Code Typescript Starter
+# Advent of Code Typescript 2025
 
-[![CI](https://github.com/nesvand/aoc-ts-starter/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/nesvand/aoc-ts-starter/actions/workflows/ci.yml?query=branch%3Amain)
-[![Test Report](https://github.com/nesvand/aoc-ts-starter/actions/workflows/test-report.yml/badge.svg?branch=main)](https://github.com/nesvand/aoc-ts-starter/actions/workflows/test-report.yml?query=branch%3Amain)
+[![CI](https://github.com/nesvand/aoc-ts-2025/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/nesvand/aoc-ts-2025/actions/workflows/ci.yml?query=branch%3Amain)
+[![Test Report](https://github.com/nesvand/aoc-ts-2025/actions/workflows/test-report.yml/badge.svg?branch=main)](https://github.com/nesvand/aoc-ts-2025/actions/workflows/test-report.yml?query=branch%3Amain)
 
 A template for [Advent of Code](https://adventofcode.com) written in Typescript with Node.
 

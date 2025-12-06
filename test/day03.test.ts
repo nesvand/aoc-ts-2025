@@ -20,13 +20,17 @@ test('part one test', () => {
 
 if (input !== '') {
     test('part one answer', () => {
-        expect(part1(input)).toBe(0);
+        expect(part1(input)).toBe(17412);
     });
 }
 
 test('part two test', () => {
     // biome-ignore lint/style/noUnusedTemplateLiteral: Empty by design
-    expect(part2(``)).toBe(0);
+    expect(part2(`987654321111111
+811111111111119
+234234234234278
+818181911112111
+`)).toBe(3121910778619);
 });
 
 if (input !== '') {
